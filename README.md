@@ -1,4 +1,4 @@
-# Sentimental-Analyzer
+# Product Sentimental Analyzer
 
 *Sentiment Analysis also known as Opinion Mining is a field within Natural Language Processing (NLP) that builds systems that try to identify and extract opinions within text. Usually, besides identifying the opinion, these systems extract attributes of the expression e.g.:*
 
